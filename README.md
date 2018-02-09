@@ -1,2 +1,2 @@
 # hello-world
-Hello world &lt;3
+Hello world.
